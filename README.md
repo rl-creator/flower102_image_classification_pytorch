@@ -1,3 +1,5 @@
+# Flower classification with PyTorch
+
 Creating a neural network to examine and classify images of flowers.
 
 Using the Flower102 dataset.
